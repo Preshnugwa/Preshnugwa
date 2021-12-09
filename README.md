@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Preshnugwa
 - 👀 I’m interested in data science and machine language. 
 - 🌱 I’m currently studying statistics and acquiring different skills.
-- 💞️ I’m looking to collaborate on any project that I can contribute. Always want to contribute.
+- 💞️ I’m looking to collaborate on any project that I can contribute. Always opened to learning.
 - 📫 How to reach me 
 
 <!---
